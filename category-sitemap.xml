@@ -7,6 +7,13 @@
     </url>
 
     <url>
+        <loc>https://hyunseob.github.io/categories/CSS/</loc>
+        <lastmod>2017-01-17T15:37:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://hyunseob.github.io/categories/Hexo/</loc>
         <lastmod>2017-01-17T15:37:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -28,14 +35,14 @@
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/categories/Node-js/</loc>
+        <loc>https://hyunseob.github.io/categories/Book/</loc>
         <lastmod>2017-01-17T15:37:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://hyunseob.github.io/categories/Book/</loc>
+        <loc>https://hyunseob.github.io/categories/Node-js/</loc>
         <lastmod>2017-01-17T15:37:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -50,20 +57,6 @@
 
     <url>
         <loc>https://hyunseob.github.io/categories/ComputerScience/</loc>
-        <lastmod>2017-01-17T15:37:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://hyunseob.github.io/categories/CSS/</loc>
-        <lastmod>2017-01-17T15:37:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://hyunseob.github.io/categories/FrontEnd/</loc>
         <lastmod>2017-01-17T15:37:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -114,6 +107,20 @@
     <url>
         <loc>https://hyunseob.github.io/categories/JavaScript/RxJS/</loc>
         <lastmod>2017-01-17T15:37:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/categories/FrontEnd/</loc>
+        <lastmod>2017-01-17T15:37:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://hyunseob.github.io/categories/Tool/</loc>
+        <lastmod>2017-02-05T08:30:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
